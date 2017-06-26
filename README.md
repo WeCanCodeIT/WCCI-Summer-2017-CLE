@@ -53,10 +53,11 @@
 #### * Denotes potential topics
 
 # Important Dates
-- No Class - Spring Break (April 17-21)
-- No Class - Memorial Day (May 29)
-- Last Day of Class (June 20)
-- Career Day & Graduation (June 23)
+- First Day of Class (June 26)
+- No Class (July 3-4 Independence Day)
+- No Class (September 4 Labor Day)
+- Last Day of Class (September 14)
+- Career Day & Graduation (September 15)
 
 
 # Grading Policy
@@ -88,7 +89,7 @@ If a student is failing a portion of the program, the student will be placed on 
 
 ## Final Projects
 
-Final projects will be worth 100 points per week, with each week graded independently. These grades will be determined based upon the milestones set for each project and how well those milestones were met. Students must be passing the course prior to final projects to be eligible to participate in final projects.
+Students must be passing the course prior to final projects to be eligible to participate in final projects.
 
 # Course Resources
 
