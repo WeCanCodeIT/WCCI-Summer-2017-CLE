@@ -110,5 +110,6 @@ Instructor Emails:
 - Lauren@wecancodeit.org
 - Daniel@Wecancodeit.org
 - Jordan@wecancodeit.org
+- Anne@wecancodeit.org (Campus Director)
 
 © 2017 We Can Code IT ALL RIGHTS RESERVED
