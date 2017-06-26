@@ -2,6 +2,7 @@
 - Welcome to We Can Code IT
 - Curriculum & Syllabus Overview
   - Tests
+  - Communication with Peers and Instructors
 - Career Day & Graduation Requirements
 - Expectations
 - Check-In
