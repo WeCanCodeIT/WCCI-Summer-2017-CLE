@@ -66,7 +66,7 @@ Class is from 9:30am-3:30pm Monday-Friday, with the exception of holidays on whi
 
 You are required to attend a minimum of 90% of class time to be eligible for graduation. Please inform your instructor and TA if extenuating circumstances arise.
 
-In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments. In addition, you must receive a grade of 70% or higher on the final project.
+In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments.
 
 ## Projects
 
