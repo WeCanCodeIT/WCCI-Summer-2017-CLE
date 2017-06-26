@@ -106,4 +106,9 @@ Free Digital Textbook
 - _[Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/downloads/)_ (aka _The Bulgarian Book_), by Svetlin Nakov, Veselin Kolev and team
 
 
+Instructor Emails:
+- Lauren@wecancodeit.org
+- Daniel@Wecancodeit.org
+- Jordan@wecancodeit.org
+
 © 2017 We Can Code IT ALL RIGHTS RESERVED
