@@ -68,8 +68,7 @@
   - If they guess cat correctly, print "You guessed correctly!"
   - If they guess incorrectly, print "You guessed incorrectly..."
   - Use the `ToLower()` or `ToUpper()` methods to ensure if they enter cat or CAT or Cat, it will be correct.
-  
-  *Come up with an example for using the other listed string methods in the Topics section.*
+
 
 ## Homework
 - Continue class exercises.
