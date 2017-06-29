@@ -25,7 +25,7 @@
   - Chapter 10 - Decision Making
   - Chapter 11 - Switch Statements
 - Mini FizzBuzz Problem (Final Jeopardy Problem)
-  - Ask the user for 2 numbers. One number will be the FIZZ number and one number will be the BUZZ number. 
+  - Ask the user for 2 numbers between 1 and 9. One number will be the FIZZ number and one number will be the BUZZ number. 
   - When you run the program, a user should be able to enter a test number.
   - If the test number is a multiple of the FIZZ number, print "Fizz!".
   - If the test number is a multiple of the BUZZ number, print "Buzz!".
