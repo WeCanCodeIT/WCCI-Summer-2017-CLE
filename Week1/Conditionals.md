@@ -35,3 +35,11 @@
 
 ## Homework
 - Complete the [Conditionals Practice Problems](https://docs.google.com/document/d/1hpsE4Xfr6k8I2JTbUcD4pueXEAaRjWFd_JDOJqe2UMw/edit?usp=sharing)
+
+## More Review Problems
+- Write a console application to get a number from the user and print whether it is positive or negative.
+- Write a console application to ask the user for a number; if it is not zero, then it will ask for a second number and display their product; otherwise, it will display "0".
+- Write a console application to ask the user for two numbers, and show their division if the second number is not zero; otherwise, it will print "I cannot divide"
+- Write a console application to get three numbers from the user and print the greatest one.
+
+
