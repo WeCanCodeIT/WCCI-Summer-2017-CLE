@@ -1,5 +1,5 @@
 # Fortune Teller
-## Due:
+## Due: Tuesday, July 4, 2017 By 9:30 AM
 ### - [GitHub Submission Link](https://docs.google.com/forms/d/e/1FAIpQLScUEvl_ZgH_OgBu0zbg_WIvB6zBSkkXh7wfxqjv4LwLdBDxLg/viewform)
 
 ## Overview
