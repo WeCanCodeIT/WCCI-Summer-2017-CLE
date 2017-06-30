@@ -3,7 +3,7 @@
 ### - [GitHub Submission Link](https://docs.google.com/forms/d/e/1FAIpQLScUEvl_ZgH_OgBu0zbg_WIvB6zBSkkXh7wfxqjv4LwLdBDxLg/viewform)
 
 ## Overview
-Develop a console application that will tell the userís fortune based on data received from the user.
+Develop a console application that will tell the user‚Äôs fortune based on data received from the user.
 
 ## Skills Required
 -  Variables and Basic Types
@@ -18,24 +18,24 @@ Develop a console application that will tell the userís fortune based on data re
 - [ ] GitHub repository created from correct folder and contains solution file
 
 ### Part 1
-- [ ] Ask the user for the userís first name
-- [ ] Ask the user for the userís last name
-- [ ] Ask the user for the userís age
-- [ ] Ask the user for the userís birth month (as an 'int')
-- [ ] Ask the user for the userís favorite ROYGBIV color
-  - [ ] If the user does not know what ROYGBIV is, ask them to enter ìHelpî to get a list of the ROYGBIV colors
+- [ ] Ask the user for the user‚Äôs first name
+- [ ] Ask the user for the user‚Äôs last name
+- [ ] Ask the user for the user‚Äôs age
+- [ ] Ask the user for the user‚Äôs birth month (as an 'int')
+- [ ] Ask the user for the user‚Äôs favorite ROYGBIV color
+  - [ ] If the user does not know what ROYGBIV is, ask them to enter ‚ÄúHelp‚Äù to get a list of the ROYGBIV colors
 - [ ] Ask the user for the number of siblings the user has
 
 ### Part 2
-- [ ] If the userís age is an odd number, then they will retire in ____ years, or ___ years if their age is an even number.
-- [ ] If the userís number of siblings is 0, then they will have a vacation home in ____ (location), or 1 then they will have a vacation home in ____ (location), or 2 then they will have a vacation home in ____ (location), or 3 then they will have a vacation home in ____ (location), or more than 3 then they will have a vacation home in ____ (location). If the user enters anything other than a number greater than or equal to 0, they should get a bad vacation home!
-- [ ] Depending on which ROYGBIV color is the userís favorite, they will have a specific mode of transportation (i.e. car, boat, plane, etc.)
-- [ ] If the userís birth month is 1-4, they will have $____ in the bank; if the user's birth month is 5-8, they will have $____ in the bank; and if it is 9-12, then they will have $____ in the bank. If the user enters something other than 01-12 as their birth month, they will have $0.00 in the bank.
+- [ ] If the user‚Äôs age is an odd number, then they will retire in ____ years, or ___ years if their age is an even number.
+- [ ] If the user‚Äôs number of siblings is 0, then they will have a vacation home in ____ (location), or 1 then they will have a vacation home in ____ (location), or 2 then they will have a vacation home in ____ (location), or 3 then they will have a vacation home in ____ (location), or more than 3 then they will have a vacation home in ____ (location). If the user enters a number that is less than 0, they should get a bad vacation home!
+- [ ] Depending on which ROYGBIV color is the user‚Äôs favorite, they will have a specific mode of transportation (i.e. car, boat, plane, etc.)
+- [ ] If the user‚Äôs birth month is 1-4, they will have $____ in the bank; if the user's birth month is 5-8, they will have $____ in the bank; and if it is 9-12, then they will have $____ in the bank. If the user enters something other than 01-12 as their birth month, they will have $0.00 in the bank.
 
 ### Part 3
-- [ ] The userís fortune should be written as such:
+- [ ] The user‚Äôs fortune should be written as such:
   - [ ] [First Name] [Last Name] will retire in [# of Years] with [Amount of Money] in the bank, a vacation home in [Location] and a [Mode of Transportation].
 - [ ] Program should be able to handle whether or not a user inputs capital or lowercase letters.
 
 ## Stretch Tasks:
-- [ ] Give the user the ability to quit the program at any point where the program is looking for user input, by typing ìQuitî (should not be case sensitive). The program should print ìNobody likes a quitter...î before ending.
+- [ ] Give the user the ability to quit the program at any point where the program is looking for user input, by typing ‚ÄúQuit‚Äù (should not be case sensitive). The program should print ‚ÄúNobody likes a quitter...‚Äù before ending.
