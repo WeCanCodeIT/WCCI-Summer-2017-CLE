@@ -28,4 +28,11 @@ For all the following examples print 2 items from the dictionary
 
 
 ## Student Resources & Practice Problems
+- [WCCI Dictionary Slides - Check out the Challenges section](https://docs.google.com/presentation/d/15d7Azuw0AulTALzjA72HgzGnnVNfFjfKtwx5agpBvOs/edit?usp=sharing)
 - [Syntax Slides](https://docs.google.com/presentation/d/1V-ubPNLHHRuD2_oFo8PaowOR1uWCSZrVvs7jh4Nwclg/edit?usp=sharing)
+- [learnCS.org Dictionaries Tutorial](http://www.learncs.org/en/Dictionaries)
+- [DotNetPerls Dictionaries](https://www.dotnetperls.com/dictionary)
+- [DotNetPerls Loops with Dictionaries versus Lists](https://www.dotnetperls.com/dictionary-list-loop)
+- [W3Schools Information on Dictionaries](https://www.w3schools.com/asp/asp_ref_dictionary.asp)
+- [C# Corner - Array, ArrayList, List, and Dictionary Examples](http://www.c-sharpcorner.com/UploadFile/eb0c2e/array-arraylist-list-and-dictionary-in-Asp-Net/)
+
