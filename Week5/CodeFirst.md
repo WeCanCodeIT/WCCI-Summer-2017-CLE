@@ -15,7 +15,9 @@
 
 ## Show It/DO It
 - [Bookshelf - Code First Walkthrough](https://docs.google.com/presentation/d/1C9v9Upx7NWePFbh5kO06GSQnuxdyeJwFVAWsTKHzgdw/edit?usp=sharing)
+- [Suggestion Box - Code First Walkthrough](https://docs.google.com/presentation/d/1FX787R7R9UrSFlbf6RnrRObsaqW_5yXV1TiFsycxEWY/edit?usp=sharing)
 
 ## Student Resources & Practice Problems
 - [Bookshelf - Code First Walkthrough](https://docs.google.com/presentation/d/1C9v9Upx7NWePFbh5kO06GSQnuxdyeJwFVAWsTKHzgdw/edit?usp=sharing)
 - [Migrations Tutorial](https://docs.google.com/presentation/d/14Mf60EoUVF5ple2oUwMZKpspd2Bk8QFbJXazMCHWQcg/edit?usp=sharing)
+- [Suggestion Box - Code First Walkthrough](https://docs.google.com/presentation/d/1FX787R7R9UrSFlbf6RnrRObsaqW_5yXV1TiFsycxEWY/edit?usp=sharing)
