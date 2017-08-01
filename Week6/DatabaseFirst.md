@@ -10,7 +10,7 @@
 
 ### In Class
  - [Database-First MVC Tutorial](https://youtu.be/BeZdeWmW-4Q)
- - [FortuneTellerMVC](https://github.com/WeCanCodeIT/CSharp-Curriculum-Guide/tree/master/ProjectDescriptions/FortuneTellerMVC)
+ - [FortuneTellerMVC](FortuneTellerMVC/)
  
 ### Reflect on it
 - Resources
