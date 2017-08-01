@@ -68,3 +68,6 @@
 
 
 - [Relational Databases and Database Design](https://docs.google.com/presentation/d/1C22bQhknL34QW85iaMa5mumTprDXnzk279ErWFOo45I/edit#slide=id.p)
+
+## More SQL
+- If you want a more in-depth understanding of SQL, we recommend checking out this tutorial. It can take several days to get through, but it can also be extremely helpful in preparing for tech interviews. [SQL Tutorial](https://github.com/WeCanCodeIT/SQLTutorial)
