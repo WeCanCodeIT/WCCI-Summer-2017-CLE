@@ -77,7 +77,7 @@ Always target MVP - and once you get there, figure out what the next MVP is!
 
 Use dropdowns when you want to limit a user's possible choices. There's an HTML element that lets you do this!
 
-For the photo, you should use an `nvarchar` column type, and put all photos in the `Content` folder of your project. Save a relative URL of the form `~/Content/myphoto.jpg`, and use that as the `src` of an `<img>` tag in your view file in the following format:
+For the photo, you should use an `nvarchar` column type, and put all photos in the `Content` folder of your project. Save a relative URL of the form `~/Content/myphoto.jpg` (*HINT*: if that doesn't work, try it without the `~`), and use that as the `src` of an `<img>` tag in your view file in the following format:
 ```
 @Url.Content(Model.Photo)
 ```
