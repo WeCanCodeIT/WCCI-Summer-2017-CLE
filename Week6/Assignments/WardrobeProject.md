@@ -1,5 +1,5 @@
 # Wardrobe MVC
-## Due: 
+## Due: Monday, August 7, 2017 by 9:30 AM
 ### - [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLScUEvl_ZgH_OgBu0zbg_WIvB6zBSkkXh7wfxqjv4LwLdBDxLg/viewform)
 
 ## Overview
