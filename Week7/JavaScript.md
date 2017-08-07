@@ -10,7 +10,7 @@
 
 ## In Class
   - Taste of JavaScript: GPA Calculator
-  - [Additional Optional JavaScript Tutorial](https://javascript.info/first-steps)
+  - [Work in Houses - JavaScript Tutorial](https://javascript.info/first-steps)
     
 
 ## Student Resources & Practice Problems
