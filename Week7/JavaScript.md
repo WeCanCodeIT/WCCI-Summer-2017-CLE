@@ -8,7 +8,7 @@
    
 ## Do It
 
-## In Class
+#### In Class
   - Taste of JavaScript: GPA Calculator
   - [Work in Houses - JavaScript Tutorial](https://javascript.info/first-steps)
     
