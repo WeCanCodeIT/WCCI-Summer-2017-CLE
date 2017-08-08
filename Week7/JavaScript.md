@@ -11,7 +11,7 @@
 #### In Class
   - Taste of JavaScript: GPA Calculator
   - [Work in Houses - JavaScript Tutorial](https://javascript.info/first-steps)
-  - Jackpot App (Random Number Generator)
+  - [Jackpot App (Random Number Generator)](https://github.com/WeCanCodeIT/Jackpot-Summer-2017-CLE)
     
 
 ## Student Resources & Practice Problems
