@@ -25,14 +25,14 @@ Hint: If you see any JavaScript array documentation that mentions using the new 
 
 ### Details
 
-- Create a magic 8-ball webpage, powered by JavaScript and/or jQuery.
+- Create a magic 8-ball webpage, powered by JavaScript.
 - The page should consist of a place where a phrase will appear, and a shake button that will cause a phrase to appear.
 
 ### Stretch Tasks
-The required tasks of this assignment will lead to a very bare-bones 8-ball. You can use CSS and more JavaScript and jQuery to make this pretty cool, though.
+The required tasks of this assignment will lead to a very bare-bones 8-ball. You can use CSS and more JavaScript to make this pretty cool, though.
 
 ### Hints
 
-- Use IDs to signify special elements in your html. If you're using JavaScript use document.getElementById to target that element, then you can change the contents with the innerHTML property.  If you're using JQuery you can use JQuery selectors and the .html() fucntion.
+- Use IDs to signify special elements in your html. In JavaScript use document.getElementById to target that element, then you can change the contents with the innerHTML property.
 
 - Play around in the console to investigate the properties of elements that are modifiable.
