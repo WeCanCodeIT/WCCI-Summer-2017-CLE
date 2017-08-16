@@ -19,5 +19,8 @@ The lines that start with `Trip` have the name of the driver for that trip, the 
 
 **NOTE: All times are based on a 24-hour clock, so you can assume the end time will always be greater than the start time.
 
+### Good Driver Output
+You are required to output a summary report to the console window. Based on the input in the file, output should be the following:
+
 ### Getting Started
 Clone the Good Driver repository. You will be creating your program as a console application using the cloned project. The text file, called `DrivingRecord.txt`, with the driving record information is already included in the solution. You will need to use [StreamReader](https://www.dotnetperls.com/streamreader) to read the information from the file. You should output your calculations as a record to the console window.
