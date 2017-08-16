@@ -21,6 +21,14 @@ The lines that start with `Trip` have the name of the driver for that trip, the 
 
 ### Good Driver Output
 You are required to output a summary report to the console window. Based on the input in the file, output should be the following:
+```
+Jordan: 80 miles @ 13 mph
+Jarryd: 53 miles @ 26 mph
+Lauren: 39 miles @ 47 mph
+Daniel: 0 miles
+```
+The record should include every driver listed on the account, the total number of miles driven and their average speed.
+Any trips that have a speed 
 
 ### Getting Started
 Clone the Good Driver repository. You will be creating your program as a console application using the cloned project. The text file, called `DrivingRecord.txt`, with the driving record information is already included in the solution. You will need to use [StreamReader](https://www.dotnetperls.com/streamreader) to read the information from the file. You should output your calculations as a record to the console window.
