@@ -17,7 +17,7 @@ Trip Jarryd 15:00 15:49 11.4
 The lines that start with `Driver` have the names of the drivers on the insurance account.
 The lines that start with `Trip` have the name of the driver for that trip, the start time of the trip, end time of the trip, and number of miles traveled for that trip.
 
-**NOTE: All times are based on a 24-hour clock, so you can assume the end time will always be greater than the start time.
+**NOTE: All times are based on a 24-hour clock, so you can assume the end time will always be greater than the start time. Drivers will never drive past midnight.
 
 ### Good Driver Output
 You are required to output a summary report to the console window. Based on the input in the file, output should be the following:
