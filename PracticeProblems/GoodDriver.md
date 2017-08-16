@@ -28,7 +28,13 @@ Lauren: 39 miles @ 47 mph
 Daniel: 0 miles
 ```
 The record should include every driver listed on the account, the total number of miles driven and their average speed.
-Any trips that have a speed 
+Any trips that have a speed that is less than 5 mph or greater than 100 mph, do not include them in the calculations.
+Lastly, the report should be sorted from greatest number of miles to fewest number of miles.
 
 ### Getting Started
 Clone the Good Driver repository. You will be creating your program as a console application using the cloned project. The text file, called `DrivingRecord.txt`, with the driving record information is already included in the solution. You will need to use [StreamReader](https://www.dotnetperls.com/streamreader) to read the information from the file. You should output your calculations as a record to the console window.
+
+### Expectations
+Your code should be clean and well-organized. 
+You should take an Object Oriented Programming approach to this exercise. 
+Have fun with this!
