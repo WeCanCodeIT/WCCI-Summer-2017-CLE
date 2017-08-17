@@ -40,4 +40,24 @@ This exam measures your ability to accomplish the technical tasks listed below. 
 - Understand web services
   -Web services that will be consumed by client applications, accessing web services from a client application, SOAP and Web Service Definition Language (WSDL)
   
+**Understanding Desktop Applications (15-20%)**
+- Understand Windows apps
+  - UI design guideline categories, characteristics and capabilities of Store Apps, identify gestures
+- Understand console-based applications
+  - Characteristics and capabilities of console-based applications
+- Understand Windows Services
+  - Characteristics and capabilities of Windows Services
+
+**Understanding Databases (15-20%)**
+- Understand relational database management systems
+  - Characteristics and capabilities of database products, database design, Entity Relationship Diagrams (ERDs), normalization concepts
+- Understand database query methods
+  - Structured query language (SQL), creating and accessing stored procedures, updating data and selecting data
+- Understand database connection methods
+  - Connecting to various types of data stores, such as flat file; XML file; in-memory object; resource optimization
   
+## Study Resources
+- [MTA Student Study Guide](https://downloads.certiport.com/Marketing/MTA/docs/MTA_SSG_SoftDev_individual_without_crop.pdf)
+- [Free Practice Exam](https://www.exam-labs.com/info/98-361)
+- [Required 2018. Strongly suggested for rest of 2017](https://www.amazon.com/Exam-98-361-Software-Development-Fundamentals/dp/047088911X/ref=sr_1_1?ie=UTF8&qid=1502902723&sr=8-1&keywords=microsoft+exam+98-361)
+- [Microsoft Virtual Academy: Software Development Fundamentals](https://mva.microsoft.com/en-US/training-courses/software-development-fundamentals-8248)
