@@ -15,5 +15,5 @@ Outputs:
 Your program should print the correct output to the console.
 
 ### Getting Started
-Clone the [HowManyHoles](https://github.com/WeCanCodeIT/HowManyHoles) repository. You will be creating your program as a console application using the cloned project. The text file, called `Numbers.txt`, with the input is already included in the solution. You should output your calculations as a record to the console window.
+Clone the [HowManyHoles](https://github.com/WeCanCodeIT/HowManyHoles) repository. You will be creating your program as a console application using the cloned project. The text file, called `Numbers.txt`, with the input is already included in the solution. You should output the correct number of holes, based on the example output, to the console window.
 
