@@ -205,7 +205,7 @@ INSERT INTO MenuItem ([ItemName],[Description],[Price],[Category]) VALUES ('Hamb
 ### Joins
 - Joins are a way for us to group related information together. You can think about them like the linking tables we've used before, but they are not permanent. The joins are a transaction we can use in a query. It allows us to have flexibility in how we group and associate our information.
 
-- An inner join is the most common type of join. There are other types of joins as well, they all functional similarly but are used for asking slightly different types of questions.
+- An inner join is the most common type of join. There are other types of joins as well, they all function similarly but are used for asking slightly different types of questions.
 
 
 - We will need to create a new database and load it with some pre-populated data. Create a new database called JoinPractice. Download the zip file from here: http://www.dofactory.com/sql/sample-database . Once you have downloaded and unzipped the SQL scripts, open them in SSMS. 
