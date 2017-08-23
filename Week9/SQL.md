@@ -34,7 +34,7 @@
 CREATE TABLE MenuItem(
     MenuItemID int IDENTITY(1,1) NOT NULL,
     ItemName varchar(50) NOT NULL,
-    Description varchar(50) NULL,
+    ItemDescription varchar(50) NULL,
     Price float NULL,
     CONSTRAINT PK_MenuID PRIMARY KEY CLUSTERED (MenuItemID)
 )
@@ -49,10 +49,10 @@ CREATE TABLE MenuItem(
 
 - Before running the INSERT command take some time to review these commands. Take note at how we list each column we want to _insert_ into, separated by commas. Then in the next section we list each of the values to be inserted into the columns.
 ```SQL
-INSERT INTO MenuItem ([ItemName],[Description],[Price]) VALUES ('Hamburger','Angus beef', 12.00);
+INSERT INTO MenuItem ([ItemName],[ItemDescription],[Price]) VALUES ('Hamburger','Angus beef', 12.00);
 INSERT INTO MenuItem ([ItemName],[Price]) VALUES ('Salad',7.00);
-INSERT INTO MenuItem ([ItemName],[Description],[Price]) VALUES ('Cheese','Swiss', 5.00);
-INSERT INTO MenuItem ([ItemName],[Description],[Price],[Category]) VALUES ('Hamburger','Black Bean Burger', 8.00);
+INSERT INTO MenuItem ([ItemName],[ItemDescription],[Price]) VALUES ('Cheese','Swiss', 5.00);
+INSERT INTO MenuItem ([ItemName],[ItemDescription],[Price]) VALUES ('Hamburger','Black Bean Burger', 8.00);
 ```
 - After performing the operation you should see the following message: `(1 row(s) affected)`, once per insert statement.
 
@@ -206,38 +206,6 @@ INSERT INTO MenuItem ([ItemName],[Description],[Price],[Category]) VALUES ('Hamb
 - Joins are a way for us to group related information together. You can think about them like the linking tables we've used before, but they are not permanent. The joins are a transaction we can use in a query. It allows us to have flexibility in how we group and associate our information.
 
 - An inner join is the most common type of join. There are other types of joins as well, they all function similarly but are used for asking slightly different types of questions.
-
-
-- We will need to create a new database and load it with some pre-populated data. Create a new database called JoinPractice. Download the zip file from here: http://www.dofactory.com/sql/sample-database . Once you have downloaded and unzipped the SQL scripts, open them in SSMS. 
-
-- Before running the scripts be sure that you are running each of them against our JoinPractice database, check the database drop down in the top left before running the scripts. First run the `sample-model.sql` to create the tables. Then run the `sample-data.sql` to populate it with data.
-
-- Now that we have our populated database, open a new query window. The join we will be running looks like this. Take sometime to read it over. NOTE: The Order is a reserved keyword in SQL. Since we have a table named Order we need to enclose it in brackets to tell SQL consider it a table name and not a keyword.
-
-```SQL
-SELECT [Order].OrderNumber, [Order].TotalAmount, Customer.FirstName, Customer.LastName
-FROM [Order] 
-INNER JOIN Customer
-ON [Order].CustomerId = Customer.Id;
-```
-- The first two lines are similar to what we've seen, with one small difference. We know how to select certain columns, but since we may have the same column name repeated in multiple tables we need to precede each column name with the table name.
-- The second and third lines say which table are we selecting from, and which table are we joining with. 
-- The last line is how we actually perform the join. When perform an inner join we need to figure out where the two tables _line up_. In this case we want our orders and our customers to line up based on the CustomerId. NOTE: The authors of this table chose to name the same information with different column names in the separate tables. This is just a preference.
-
-- Enter the previous query into your query window and run.
-
-### Do  It
-- Now that we have a database full of information, what else can we ask? Try answering the following questions with your dataset. You may need to research additional features of SQL Server to answer some of these
-    - How many customers are there?
-    - How many orders are there?
-    - What is the most expensive order?
-    - How many suppliers are in each country? (_HINT:_ Research group by)
-    - Who is the highest spending customer?
-    - Which customer has the most orders?
-    - What is the most expensive product?
-    - What is the most popular order?
-
-    - What other questions can you come up with to answer using this data set?
 
 ### Reflect on it
 - Resources
