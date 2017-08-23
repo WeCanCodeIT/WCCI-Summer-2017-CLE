@@ -10,7 +10,7 @@ Tomorrow is Thursday.
 ```
 *This example output is based on the current day the program is run being a Wednesday. `Today` should be whichever day it is when the program is run.
 
-### Problem 2: Countdown to New Years
+### Problem 2: Birthday Day in the Year
 Create a DateTime instance for your birth date in 2017. Print the following to the console:
 ```
 My birthday is the 283 day of the year.
