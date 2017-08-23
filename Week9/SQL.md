@@ -151,12 +151,10 @@ WHERE ItemName = 'Hamburger';
 - There are many other SQL commands to learn but these are the most common. There are resources at the end of this page that point towards places to learn more about SQL commands.
 
 ---
-### Say It
 
 ### Relationships
 - We know that Microsoft SQL Server is a _Relational_ database. How can we define a foreign key relationship using SQL queries?
 
-### Show It
 - Before we begin we need to delete the table we've been using so far. Don't worry, using SQL queries we can quickly, delete, recreate, and populate our databases tables with information. To delete our table we can run the following command.
 
 ```SQL
