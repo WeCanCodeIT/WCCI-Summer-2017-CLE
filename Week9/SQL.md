@@ -175,7 +175,7 @@ CREATE TABLE Category(
 CREATE TABLE MenuItem(
 	MenuItemID int IDENTITY(1,1) NOT NULL,
 	ItemName varchar(50) NOT NULL,
-    Description varchar(50) NULL,
+    ItemDescription varchar(50) NULL,
     Price float NULL,
     Category int NOT NULL,
 	CONSTRAINT PK_MenuID PRIMARY KEY CLUSTERED (MenuItemID),
@@ -192,10 +192,10 @@ INSERT INTO Category ([Name]) VALUES ('Dinner');
 
 - Now that we have at least one category we can add new menu items. Can you tell what's different with these INSERT statements?
 ```SQL
-INSERT INTO MenuItem ([ItemName],[Description],[Price],[Category]) VALUES ('Hamburger','Angus beef', 12.00,1);
+INSERT INTO MenuItem ([ItemName],[ItemDescription],[Price],[Category]) VALUES ('Hamburger','Angus beef', 12.00,1);
 INSERT INTO MenuItem ([ItemName],[Price],[Category]) VALUES ('Salad',7.00,1);
-INSERT INTO MenuItem ([ItemName],[Description],[Price],[Category]) VALUES ('Cheese','Swiss', 5.00,1);
-INSERT INTO MenuItem ([ItemName],[Description],[Price],[Category]) VALUES ('Hamburger','Black Bean Burger', 8.00,1);
+INSERT INTO MenuItem ([ItemName],[ItemDescription],[Price],[Category]) VALUES ('Cheese','Swiss', 5.00,1);
+INSERT INTO MenuItem ([ItemName],[ItemDescription],[Price],[Category]) VALUES ('Hamburger','Black Bean Burger', 8.00,1);
 ```
 ### Do It
 - Practice using different SQL commands to insert, update, delete and select row from your table. Try calculating different values based on the information stored in your tables.
