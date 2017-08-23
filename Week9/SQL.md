@@ -211,5 +211,5 @@ INSERT INTO MenuItem ([ItemName],[ItemDescription],[Price],[Category]) VALUES ('
 - [Different Types of Joins](https://www.w3schools.com/sql/sql_join.asp)
 - [Interactive SQL Zoo Tutorial](https://sqlzoo.net/)
 - [SQL Server Tutorial](https://www.techonthenet.com/sql_server/index.php)
-- [Relational Databases and Database Design](https://docs.google.com/presentation/d/1C22bQhknL34QW85iaMa5mumTprDXnzk279ErWFOo45I/edit#slide=id.p)
+- [Relational Databases and Database Design](https://docs.google.com/presentation/d/1C22bQhknL34QW85iaMa5mumTprDXnzk279ErWFOo45I/edit?usp=sharing)
 - [Step-by-Step Written Tutorial on Database-First MVC](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/database-first-development/creating-the-web-application)
