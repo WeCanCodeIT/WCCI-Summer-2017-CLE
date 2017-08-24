@@ -16,3 +16,10 @@ Create a DateTime instance for your birth date in 2017. Print the following to t
 My birthday is the 283 day of the year.
 ```
 *This example output is based on a birthday of October 10, 2017.
+
+### Problem 3: Number of Days
+Using DateTime, write a program that prints the number of days of a given month and year.
+```
+In 2017, February has 28 days.
+```
+_Hint: Use `DaysInMonth()`_
