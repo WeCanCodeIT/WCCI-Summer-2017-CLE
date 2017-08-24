@@ -24,7 +24,7 @@ In 2017, February has 28 days.
 ```
 _Hint: Use `DaysInMonth()`_
 
-### Problem 4: 
+### Problem 4: Leap Years
 Write a program to find the leap years between 1994 and 2016.
 ```
 1994 is NOT  a Leap Year.
