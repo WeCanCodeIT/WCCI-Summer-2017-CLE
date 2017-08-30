@@ -49,3 +49,11 @@ Write a program to find the leap years between 1994 and 2016.
 2013 is NOT  a Leap Year.
 2014 is NOT  a Leap Year.
 ```
+
+### Problem 5: 40 Days
+Write a program to calculate what day of the week is 40 days from this moment. 
+```
+40 days from now will be a Monday.
+```
+_This example output is based on the current date being August 30, 2017._
+
