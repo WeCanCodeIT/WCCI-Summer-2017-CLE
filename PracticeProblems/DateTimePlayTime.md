@@ -57,3 +57,5 @@ Write a program to calculate what day of the week is 40 days from this moment.
 ```
 _This example output is based on the current date being August 30, 2017._
 
+### Problem 6: Difference of Days
+Write a program to get the difference between two dates in days. For example, the difference between June 3, 2017 and June 5, 2017 is 2 days. 
