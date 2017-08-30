@@ -59,3 +59,14 @@ _This example output is based on the current date being August 30, 2017._
 
 ### Problem 6: Difference of Days
 Write a program to get the difference between two dates in days. For example, the difference between June 3, 2017 and June 5, 2017 is 2 days. 
+
+### Problem 7: Is that today?
+Write a program to check whether the given year, month and day are the current or not.
+Test Data :
+Input the Day : 17
+Input the Month : 09
+Input the Year : 2017
+```
+The formatted Date is : 17/09/2016
+The current date status : False
+```
