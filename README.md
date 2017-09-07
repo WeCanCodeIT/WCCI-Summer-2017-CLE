@@ -47,8 +47,9 @@
 - Week 9
   - Flex Week
 - Weeks 10-12
-  - Final Project
+  - Final Project ([Design Peer Review](https://goo.gl/forms/HtBmZD26pUJ1Lt4u2))
   - Scrum
+  
 
 #### * Denotes potential topics
 
