@@ -54,3 +54,9 @@ Each team will have an assigned instructor to facilitate the project presentatio
   - High level overview of what the technical problem is that the team solved
   - The solution you all came up with as a high level overview
   - How you implemented the solution - get technical and use correct terminology!
+  
+### Part 4: Q & A
+- Start this section by noting a couple of your "What's next in development" items from your product backlog. This could be items you did not get to as well as nice to haves.
+- Be prepared for employers to ask you specific questions about your development process, such as SCRUM and problem solving.
+- Know your code! Each person should be able to answer questions about the project, but also know your strengths and play to them.
+- Make sure your code is cleaned up in case employers want to take a look.
