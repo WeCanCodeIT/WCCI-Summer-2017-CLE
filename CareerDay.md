@@ -1,6 +1,6 @@
 # Career Day & Graduation Schedule: September 15, 2017
 
-Arrive by 11:30 am for lunch. There are restrooms to change if you prefer to do so after lunch.
+Arrive at **Jumpstart, 6701 Carnegie Ave, Cleveland, OH 44103** by 11:30 am for lunch. There are restrooms to change if you prefer to do so after lunch.
 
 12:00 - Time for group photos. Feel free to share online!
 
