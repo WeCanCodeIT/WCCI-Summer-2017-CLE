@@ -39,5 +39,18 @@ Each team will have an assigned instructor to facilitate the project presentatio
 ### Part 1: Project Overview & Introduction (Max: 3 Minutes)
 - Introduce team members
 - Name of the application
+- Who is the audience for the application?
+- What problem does the application solve (feel free to include a statistic)?
+- What are users able to do with the application (use your user stories as a guide)?
+- What does the user experience as a result of using the app?
 
-...More to come
+### Part 2: Application Walkthrough Video (Max: 6 Minutes)
+- This video should be prerecorded using [Flashback Express](https://www.flashbackrecorder.com/express/) and should be a walkthrough of how to use the app.
+
+### Part 3: Strictly Technical (Max: 6 Minutes)
+- Decide on 2-3 technical aspects of the application to discuss with employers.
+- Use this as an opportunity to highlight the technical depth of the project and some of your most difficult problems to solve.
+- Remember, some career day attendees are business people and others are developers, so be prepared to sandwich your explanations as such:
+  - High level overview of what the technical problem is that the team solved
+  - The solution you all came up with as a high level overview
+  - How you implemented the solution - get technical and use correct terminology!
