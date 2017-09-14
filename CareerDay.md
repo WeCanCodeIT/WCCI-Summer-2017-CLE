@@ -46,6 +46,7 @@ Each team will have an assigned instructor to facilitate the project presentatio
 
 ### Part 2: Application Walkthrough Video (Max: 6 Minutes)
 - This video should be prerecorded using [Flashback Express](https://www.flashbackrecorder.com/express/) and should be a walkthrough of how to use the app.
+- Please see the [Presentation Tools Folder](https://github.com/WeCanCodeIT/WCCI-Summer-2017-CLE/tree/master/FinalPresentations) for detailed instructions.
 
 ### Part 3: Strictly Technical (Max: 6 Minutes)
 - Decide on 2-3 technical aspects of the application to discuss with employers.
